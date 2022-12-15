@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @plumbery (Alper Can)
-- 👀 I’m interested in Kubernetes, DevOps, Cloud and Hybrid Cloud
+- 👀 I’m interested in Kubernetes, DevOps, Cloud, Hybrid Cloud and SRE skills 
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on Azure DevOps and Kubernetes
 
